@@ -1,4 +1,4 @@
-package com.wte.springbase.de;
+package com.wte.leaning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

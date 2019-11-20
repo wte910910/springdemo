@@ -1,4 +1,4 @@
-package com.wte.springbase.de;
+package com.wte.leaning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
